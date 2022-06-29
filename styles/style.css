@@ -29,8 +29,9 @@ img {
     .qr_code {
         display: flex;
         flex-direction: column;
+        justify-content: center;
         align-items: center;
-        margin: 120px 550px;
+        min-height: 100vh;
     }
 
 }
